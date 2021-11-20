@@ -1,0 +1,85 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.fundo {
+    width: 100%;
+    height: 100vh;
+    background-image: url('https://wallpaperaccess.com/full/3352660.jpg');
+    background-size: cover;
+    
+
+}
+
+.cabecalho {
+    width: 100%;
+    height: 40%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.nome {
+    color: aliceblue;
+    width: 50%;
+    height: 20%;
+    display: flex;
+    justify-content: center;
+    font-size: 2em;
+    font-family: 'Comforter Brush', cursive;
+}
+
+main {
+    width: 100%;
+    height: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.botao {
+    width: 20%;
+    height: 10%;
+    color: floralwhite;
+    background: none;
+    font-size: 22px;
+    text-transform: uppercase;
+    font-family: 'Architects Daughter', cursive;
+    font-weight: bold;
+}
+
+.personagens {
+    width: 80%;
+    height: 80%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.Gamora {
+    width: 20%;
+    height: 80%;
+    background-image: url('https://pm1.narvii.com/6952/d94f4906fa30b426a02f982693e4b6b7602482d0r1-736-1072v2_hq.jpg');
+    background-size: cover;
+
+}
+
+.Groot {
+    width: 20%;
+    height: 80%;
+    background-image: url('https://claudia.abril.com.br/wp-content/uploads/2020/01/groot-1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+
+}
+
+.PanteraNegra {
+    width: 20%;
+    height: 80%;
+    background-image: url('https://observatoriodocinema.uol.com.br/wp-content/uploads/2021/07/pantera-negra-1200x900-1.jpg');
+    background-size: cover;
+
+}
