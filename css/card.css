@@ -1,0 +1,36 @@
+.card {
+    display: flex;
+    flex-direction: column;
+    width: 60%;
+    padding: 24px;
+    font-family: cursive;
+    font-size: 1.2em;
+    padding-top: 8px;
+    margin: auto;
+}
+
+.titulo-card {
+    text-align: center;
+}
+
+.container-button button{
+    width: 100px;
+    height: 40px;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+    font-size: 18px;
+    text-transform: uppercase;
+    font-family: cursive;
+    
+}
+
+.cenariovulcao {
+    background-image: url('https://www.topmelhores.com.br/imagens/post/103/barren_destaque.jpg');
+    background-size: cover;
+}
+
+
+
