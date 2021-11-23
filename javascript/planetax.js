@@ -5,7 +5,7 @@ function selecionar (){
     }
     var personagens = personagem.toUpperCase()
     if(personagens === 'GAMORA'){
-        window.location.href="./gamora/gamora.html"
+        window.location.href="../html/gamora.html"
     }else if(personagens === 'GROOT'){
         //link pág Groot
         window.location.href=''

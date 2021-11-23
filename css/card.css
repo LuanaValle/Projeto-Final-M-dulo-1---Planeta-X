@@ -14,7 +14,7 @@
 }
 
 .container-button button{
-    width: 100px;
+    width: 120px;
     height: 40px;
     position: absolute;
     top: 50%;
@@ -26,6 +26,12 @@
     font-family: cursive;
     
 }
+
+/*button:hover{
+
+}*/
+
+
 
 .cenariovulcao {
     background-image: url('https://www.topmelhores.com.br/imagens/post/103/barren_destaque.jpg');
