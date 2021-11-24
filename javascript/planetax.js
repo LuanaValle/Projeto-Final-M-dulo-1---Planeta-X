@@ -11,7 +11,7 @@ function selecionar (){
         window.location.href="../html/groot.html"
     }else{
         //link pág Pantera Negra
-        window.location.href=''
+        window.location.href='../html/panteranegra.html'
     }
 
 }
