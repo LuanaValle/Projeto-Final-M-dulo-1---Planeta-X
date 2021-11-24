@@ -8,7 +8,7 @@ function selecionar (){
         window.location.href="../html/gamora.html"
     }else if(personagens === 'GROOT'){
         //link pág Groot
-        window.location.href=''
+        window.location.href='../html/groot.html'
     }else{
         //link pág Pantera Negra
         window.location.href=''
